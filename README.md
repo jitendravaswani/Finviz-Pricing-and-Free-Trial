@@ -1,4 +1,4 @@
-# Finviz-Pricing-and-Free-Trial
+# Finviz-Pricing-and-Free-Trial: What’s the Best Option?
 
 How much does Finviz cost, and can you try it for free? Finviz, short for Financial Visualizations, is a tool that makes stock trading simple.
 
